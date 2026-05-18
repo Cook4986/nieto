@@ -11,7 +11,7 @@ __pycache__/
 *.log
 
 # Extracted Data (Don't leak raw JSONs or final CSVs which may change dynamically)
-Code/data/
+data/
 
 # Orphaned/Private Files
 Nieto_Cook2026.ipynb
