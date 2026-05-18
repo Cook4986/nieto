@@ -1,5 +1,7 @@
 # Instagram Network Mapper
 
+![Experimental Music Network](header.png)
+
 A scalable, Python-based ETL pipeline for extracting public Instagram profile metadata and network connections (mentions) to construct social graphs. Designed to map digital ecosystems, communities, or corporate networks using the Apify API.
 
 ## 🌟 Overview & Broad Applicability
