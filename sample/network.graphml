@@ -1,0 +1,1323 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d10" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d9" for="node" attr.name="category" attr.type="string"/>
+<key id="d8" for="node" attr.name="geo_location" attr.type="string"/>
+<key id="d7" for="node" attr.name="external_url" attr.type="string"/>
+<key id="d6" for="node" attr.name="posts_count" attr.type="long"/>
+<key id="d5" for="node" attr.name="following" attr.type="long"/>
+<key id="d4" for="node" attr.name="followers" attr.type="long"/>
+<key id="d3" for="node" attr.name="bio_hashtags" attr.type="string"/>
+<key id="d2" for="node" attr.name="biography" attr.type="string"/>
+<key id="d1" for="node" attr.name="full_name" attr.type="string"/>
+<key id="d0" for="node" attr.name="id" attr.type="string"/>
+<graph edgedefault="directed"><node id="musiktexte.online">
+  <data key="d0">musiktexte.online</data>
+  <data key="d1"></data>
+  <data key="d2">Monatlich erscheinende Online-Publikation mit Beiträgen zur zeitgenössischen Musik.
+Abonniert unseren kostenlosen Newsletter!</data>
+  <data key="d3"></data>
+  <data key="d4">886</data>
+  <data key="d5">414</data>
+  <data key="d6">107</data>
+  <data key="d7">http://www.musiktexte.online/</data>
+  <data key="d8"></data>
+</node>
+<node id="ruemlingen">
+  <data key="d0">ruemlingen</data>
+  <data key="d1">Festival Neue Musik Rümlingen</data>
+  <data key="d2"></data>
+  <data key="d3"></data>
+  <data key="d4">1268</data>
+  <data key="d5">359</data>
+  <data key="d6">109</data>
+  <data key="d7">http://www.neue-musik-ruemlingen.ch/</data>
+  <data key="d8"></data>
+  <data key="d9">None,Festival</data>
+</node>
+<node id="evs_musikstiftung">
+  <data key="d0">evs_musikstiftung</data>
+  <data key="d1">Ernst von Siemens Music Foundation</data>
+  <data key="d2">contemporary music
+prizes, funding, initiatives</data>
+  <data key="d3"></data>
+  <data key="d4">4615</data>
+  <data key="d5">244</data>
+  <data key="d6">217</data>
+  <data key="d7">http://evs-musikstiftung.ch/</data>
+  <data key="d8"></data>
+</node>
+<node id="impulse__festival">
+  <data key="d0">impulse__festival</data>
+  <data key="d1">Impulse Festival</data>
+  <data key="d2">Impulse Festival 
+für Performance, Theater &amp; Tanz #ImpulseFestival</data>
+  <data key="d3">#ImpulseFestival</data>
+  <data key="d4">12289</data>
+  <data key="d5">1803</data>
+  <data key="d6">522</data>
+  <data key="d7">https://www.impulsefestival.de/</data>
+  <data key="d8"></data>
+  <data key="d9">None,Festival</data>
+</node>
+<node id="wienmodern">
+  <data key="d0">wienmodern</data>
+  <data key="d1">Wien Modern</data>
+  <data key="d2">Neue Musik für die Stadt
+-
+30.10 - 30.11</data>
+  <data key="d3"></data>
+  <data key="d4">6649</data>
+  <data key="d5">668</data>
+  <data key="d6">788</data>
+  <data key="d7">http://www.wienmodern.at/</data>
+  <data key="d8"></data>
+</node>
+<node id="berlinerfestspiele">
+  <data key="d0">berlinerfestspiele</data>
+  <data key="d1">Berliner Festspiele</data>
+  <data key="d2">Seeing what’s ahead. 
+#MaerzMusik #Theatertreffen #MusikfestBerlin #JazzfestBerlin #PerformingArtsSeason @treffenjungeszene @gropiusbau</data>
+  <data key="d3">#MaerzMusik, #Theatertreffen, #MusikfestBerlin, #JazzfestBerlin, #PerformingArtsSeason</data>
+  <data key="d4">55547</data>
+  <data key="d5">1526</data>
+  <data key="d6">3380</data>
+  <data key="d7">http://berlinerfestspiele.de/</data>
+  <data key="d8"></data>
+  <data key="d9">Local Events</data>
+</node>
+<node id="lucernefestival">
+  <data key="d0">lucernefestival</data>
+  <data key="d1">Lucerne Festival</data>
+  <data key="d2">Orchestrating the Moment.
+Happening now: Lucerne Festival Pulse with @vikingurolafsson 🎹 08–17.05.2026</data>
+  <data key="d3"></data>
+  <data key="d4">66014</data>
+  <data key="d5">513</data>
+  <data key="d6">2395</data>
+  <data key="d7">https://www.lucernefestival.ch/LinkInBio</data>
+  <data key="d8"></data>
+  <data key="d9">None</data>
+</node>
+<node id="nymusikk">
+  <data key="d0">nymusikk</data>
+  <data key="d1">nyMusikk</data>
+  <data key="d2">Helårsarrangør og landsforening for samtidsmusikk. Etablert i 1938. #nyMusikk #OnlyConnectFestival Bli medlem 👇</data>
+  <data key="d3">#nyMusikk, #OnlyConnectFestival</data>
+  <data key="d4">5624</data>
+  <data key="d5">1378</data>
+  <data key="d6">1356</data>
+  <data key="d7">http://www.nymusikk.no/</data>
+  <data key="d8"></data>
+  <data key="d9">Non-Profits &amp; Religious Organizations</data>
+</node>
+<node id="positionenmusik">
+  <data key="d0">positionenmusik</data>
+  <data key="d1">POSITIONEN – Texte zur aktuellen Musik</data>
+  <data key="d2">Quarterly discourse magazine on music | Founded 1988 | Editor @riekenjulian | Marketing @byallmeans.saskia
+Hosting @untwelving May 2026, Munich</data>
+  <data key="d3"></data>
+  <data key="d4">2979</data>
+  <data key="d5">340</data>
+  <data key="d6">535</data>
+  <data key="d7">https://positionen-texte-zur-aktuellen-musik.subsail.com/subscribe/</data>
+  <data key="d8"></data>
+</node>
+<node id="zeitraeume_basel">
+  <data key="d0">zeitraeume_basel</data>
+  <data key="d1">ZeitRäume Basel</data>
+  <data key="d2">ZeitRäume Basel  
+Biennale für neue Musik und Architektur 
+09.–19.09.2021</data>
+  <data key="d3"></data>
+  <data key="d4">1149</data>
+  <data key="d5">401</data>
+  <data key="d6">79</data>
+  <data key="d7">https://linktr.ee/zeitraeumebasel</data>
+  <data key="d8"></data>
+</node>
+<node id="theaterderzeit">
+  <data key="d0">theaterderzeit</data>
+  <data key="d1">Theater der Zeit</data>
+  <data key="d2">Zeitschrift, Buchverlag und mit tdz.de Online-Medium für das ganze Theater.</data>
+  <data key="d3"></data>
+  <data key="d4">15483</data>
+  <data key="d5">663</data>
+  <data key="d6">1918</data>
+  <data key="d7">https://linktr.ee/theaterderzeit</data>
+  <data key="d8"></data>
+  <data key="d9">None,Magazine</data>
+</node>
+<node id="ultimafestivalen">
+  <data key="d0">ultimafestivalen</data>
+  <data key="d1">Ultima</data>
+  <data key="d2">Ultima Oslo Contemporary Music Festival
+10–19 September 2026
+More info:</data>
+  <data key="d3"></data>
+  <data key="d4">6885</data>
+  <data key="d5">1002</data>
+  <data key="d6">1315</data>
+  <data key="d7">http://linktr.ee/ultimaocmf</data>
+  <data key="d8"></data>
+  <data key="d9">None,Festival</data>
+</node>
+<node id="suena.festival">
+  <data key="d0">suena.festival</data>
+  <data key="d1">Suena Festival Wien</data>
+  <data key="d2">Suena Festival Wien widmet sich der Förderung zeitgenössischer iberoamerikanischer Musik in Österreich 🇦🇹 : https://www.suenafestival.com/</data>
+  <data key="d3"></data>
+  <data key="d4">1152</data>
+  <data key="d5">847</data>
+  <data key="d6">81</data>
+  <data key="d7">https://www.suenafestival.com/</data>
+  <data key="d8"></data>
+  <data key="d9">None</data>
+</node>
+<node id="steirischerherbst">
+  <data key="d0">steirischerherbst</data>
+  <data key="d1">steirischer herbst</data>
+  <data key="d2">steirischer herbst ’26
+24.9.–18.10.26
+contemporary art festival
+Graz, Austria &amp; beyond</data>
+  <data key="d3"></data>
+  <data key="d4">11743</data>
+  <data key="d5">1302</data>
+  <data key="d6">1498</data>
+  <data key="d7">https://www.steirischerherbst.at/links</data>
+  <data key="d8"></data>
+  <data key="d9">Local Events</data>
+</node>
+<node id="musiktheatertage.wien">
+  <data key="d0">musiktheatertage.wien</data>
+  <data key="d1">Musiktheatertage Wien</data>
+  <data key="d2">Contemporary Music Theatre Festival
+16 - 27 September 2026</data>
+  <data key="d3"></data>
+  <data key="d4">3041</data>
+  <data key="d5">2060</data>
+  <data key="d6">311</data>
+  <data key="d7">https://mttw.at/</data>
+  <data key="d8"></data>
+  <data key="d9">None,Festival</data>
+</node>
+<node id="musikfestival_bern">
+  <data key="d0">musikfestival_bern</data>
+  <data key="d1">Musikfestival Bern</data>
+  <data key="d2">Eines der grössten Schweizer Festivals für zeitgenössische Musik | One of Switzerland’s largest festivals of contemporary music
+📅 2.–6. Sept 2026</data>
+  <data key="d3"></data>
+  <data key="d4">3915</data>
+  <data key="d5">459</data>
+  <data key="d6">249</data>
+  <data key="d7">https://linktr.ee/musikfestivalbern</data>
+  <data key="d8"></data>
+  <data key="d9">None,Festival</data>
+</node>
+<node id="muenchenerbiennale">
+  <data key="d0">muenchenerbiennale</data>
+  <data key="d1">Münchener Biennale</data>
+  <data key="d2">Uraufführungsfestival für neues Musiktheater.
+20. Münchener Biennale: 08/05-20/05/2026</data>
+  <data key="d3"></data>
+  <data key="d4">3477</data>
+  <data key="d5">429</data>
+  <data key="d6">332</data>
+  <data key="d7">http://muenchener-biennale.de/</data>
+  <data key="d8"></data>
+  <data key="d9">None,Festival</data>
+</node>
+<node id="impuls_festival">
+  <data key="d0">impuls_festival</data>
+  <data key="d1">IMPULS Festival</data>
+  <data key="d2">IMPULS 25 - GOTTES GARTEN - VERBOTENE FRÜCHTE
+August - November</data>
+  <data key="d3"></data>
+  <data key="d4">5017</data>
+  <data key="d5">201</data>
+  <data key="d6">223</data>
+  <data key="d7">https://impulsfestival.de/2025/</data>
+  <data key="d8"></data>
+  <data key="d9">Local Events</data>
+</node>
+<node id="anna_katharinamueller."/>
+<node id="caokefei0831"/>
+<node id="fabian_schellhorn"/>
+<node id="falk.i.schreiber,"/>
+<node id="hauberlin;"/>
+<node id="heinrichhorwitz"/>
+<node id="jaramachtsachen"/>
+<node id="katia_fellin_official"/>
+<node id="kinan_hmidan"/>
+<node id="kong_says_hi_"/>
+<node id="kristiendeproost"/>
+<node id="laurauribe"/>
+<node id="lennithing.goes"/>
+<node id="leonie.ziem"/>
+<node id="lilithstangenberg."/>
+<node id="necatioeziri"/>
+<node id="paula_thiel_ecke"/>
+<node id="paula_thiel_ecke."/>
+<node id="paulinaalpen"/>
+<node id="peslsohr"/>
+<node id="sashasalzmann"/>
+<node id="schauspielstuttgart."/>
+<node id="schmalztiegel"/>
+<node id="selinkaaaaaa"/>
+<node id="sharondoduaotoo"/>
+<node id="shirinsojitrawalla"/>
+<node id="sivanbenyishai"/>
+<node id="sivanbenyishai."/>
+<node id="staatstheatercottbus"/>
+<node id="vincent__koch,"/>
+<node id="yaninaceron,"/>
+<node id="yodittarikwa."/>
+<node id="yunhuang_acts"/>
+<node id="enmtallinn"/>
+<node id="exaudivocal"/>
+<node id="jaegerundjaeger_brand"/>
+<node id="jordisavall"/>
+<node id="prosperoclassical"/>
+<node id="quatuorbozzini"/>
+<node id="riotensemble"/>
+<node id="stefanie_loos"/>
+<node id="wdr"/>
+<node id="wdrso_freunde"/>
+<node id="fernandostrasnoy"/>
+<node id="babelscores"/>
+<node id="classipix"/>
+<node id="hans.rotman,"/>
+<node id="ilyaram"/>
+<node id="janina.schreiber"/>
+<node id="prata_at_hotmail"/>
+<node id="simonedrescher.cellist"/>
+<node id="steintorvariete"/>
+<node id="filmgarten_at"/>
+<node id="arnoldschoenbergcenter"/>
+<node id="marschall2001"/>
+<node id="sascha_pierre_kummer"/>
+<node id="simonedrescher.cellist,"/>
+<node id="fftduesseldorf"/>
+<node id="klangforum_wien"/>
+<node id="wienmodern."/>
+<node id="augustinhadelich"/>
+<node id="danishquartet"/>
+<node id="danishquartet."/>
+<node id="itselimchan,"/>
+<node id="itselimchan."/>
+<node id="kklluzern"/>
+<node id="mahlerchamberorchestra,"/>
+<node id="roche"/>
+<node id="studioolafureliasson:"/>
+<node id="thomasades,"/>
+<node id="ubsschweiz"/>
+<node id="vikingurolafsson"/>
+<node id="vikingurolafsson,"/>
+<node id="zurich.ch"/>
+<node id="mariam_gviniashvili_artist"/>
+<node id="blaaoslo"/>
+<node id="ingrid.styrkestad"/>
+<node id="mrttrml"/>
+<node id="bastian.zimmermann"/>
+<node id="benibrachtel"/>
+<node id="christinehelenrose,"/>
+<node id="edwardj.mckeon1,"/>
+<node id="hanusasebastian"/>
+<node id="kalasliebfried"/>
+<node id="marstalifolketinget."/>
+<node id="simon_steenandersen"/>
+<node id="xeniab.vlsk,"/>
+<node id="blackboxteater"/>
+<node id="diestaatstheaterstuttgart,"/>
+<node id="garedunordbasel"/>
+<node id="haus.styriarte"/>
+<node id="haus.styriarte,"/>
+<node id="hochx"/>
+<node id="joinstuttgart/"/>
+<node id="klang_festival"/>
+<node id="muffatwerk"/>
+<node id="oslosinfonietta,"/>
+<node id="oxundoel_produktionen"/>
+<node id="schauburg_muenchen"/>
+<node id="schwerereiter"/>
+<node id="staatsoperstuttgart"/>
+<node id="ultimafestivalen,"/>
+<node id="volkstheater"/>
+<node id="andreas_schaerer"/>
+<node id="container_ensemble"/>
+<node id="hkb_musik"/>
+<node id="ictusensemble"/>
+<node id="janfiliptupa"/>
+<node id="konus_quartett"/>
+<node id="magmgam"/>
+<node id="mailchristiankobi"/>
+<node id="mantrumpet"/>
+<node id="maras_sound"/>
+<node id="moritzachermann"/>
+<node id="nuriacarbovives"/>
+<node id="pony_says"/>
+<node id="silke_strahl"/>
+<node id="stefanschultzemusic"/>
+<node id="tamriko.kordzaia"/>
+<node id="tobiasreber"/>
+<node id="tremblap"/>
+<node id="zoi.argyriou"/>
+<node id="contingentsounds"/>
+<node id="daaaeun.jun"/>
+<node id="forcedents"/>
+<node id="hanna.fink1"/>
+<node id="hannes_seidl_"/>
+<node id="jiaying_he_"/>
+<node id="lennysienczak"/>
+<node id="liuduoni"/>
+<node id="manos.tsangaris"/>
+<node id="mdjstuttgart"/>
+<node id="moonsun_shin"/>
+<node id="rimini_protokoll"/>
+<node id="teresa_grebchenko"/>
+<node id="aleksandra_bajde"/>
+<node id="alina_v_be"/>
+<node id="almabandi"/>
+<node id="blackpageorchestra"/>
+<node id="carmenckruse"/>
+<node id="clarafruehstueck"/>
+<node id="connyzenk"/>
+<node id="constructionchoir"/>
+<node id="elda.m.gallo"/>
+<node id="errortheater"/>
+<node id="evareiter1"/>
+<node id="florageisselbrecht"/>
+<node id="florian_drexler"/>
+<node id="fox.on.ice"/>
+<node id="glanzundkrawall"/>
+<node id="maartjepasman"/>
+<node id="manimoo69"/>
+<node id="minion.hunt"/>
+<node id="mttw.at"/>
+<node id="nika.bauman"/>
+<node id="philipplossauhallo"/>
+<node id="pulverthepiece"/>
+<node id="samuel_zaab"/>
+<node id="samugryllus"/>
+<node id="studio.dan"/>
+<node id="studiomars2020"/>
+<node id="synesthetic.project"/>
+<node id="th_wally"/>
+<node id="the_resilience_of_sisyphos"/>
+<node id="theater_am_werk_official"/>
+<node id="theaterodeon"/>
+<node id="westspacevienna"/>
+<node id="wukvienna"/>
+<node id="musikwerkstattalteschmiede"/>
+<node id="cezara_u.u"/>
+<node id="ensemble__n"/>
+<node id="sebassb89"/>
+<node id="__poing"/>
+<node id="antalova_music"/>
+<node id="anti_inc"/>
+<node id="bergrun_______"/>
+<node id="bnuring_things"/>
+<node id="carstenaniksdal"/>
+<node id="caserecordsnorway"/>
+<node id="cikadaensemble"/>
+<node id="darkmusicdays"/>
+<node id="e.t.hangard"/>
+<node id="eleperalesandreu"/>
+<node id="eric_egan"/>
+<node id="ernvdl"/>
+<node id="f1nstad"/>
+<node id="ilan.volkov"/>
+<node id="jackquartet"/>
+<node id="jonasskaarud"/>
+<node id="jorgegomezelizondo"/>
+<node id="justejanulyte"/>
+<node id="karinemiliahellqvist"/>
+<node id="knutolafsunde"/>
+<node id="komponistforeningen"/>
+<node id="kristinetjogersen"/>
+<node id="kulturkirkenjakob,"/>
+<node id="kulturradet"/>
+<node id="kunstnerneshus"/>
+<node id="littlest__freckle"/>
+<node id="louis_laurain"/>
+<node id="madalena.moreira.rato"/>
+<node id="malinvangsnes"/>
+<node id="mariesamuelssoncomposer"/>
+<node id="martiunkuchen"/>
+<node id="musicnorway"/>
+<node id="musikkhogskolen"/>
+<node id="naaljosljom"/>
+<node id="natachadiels"/>
+<node id="nrkkork"/>
+<node id="oslo.kommune"/>
+<node id="ovingshotellet"/>
+<node id="owenplaysthedrums"/>
+<node id="pierre_bastien_tapes"/>
+<node id="pritchardalwynne"/>
+<node id="sanae_yoshida_piano"/>
+<node id="sitronsinfonietta"/>
+<node id="susanasantosilva"/>
+<node id="uncannyvalleygrl"/>
+<node id="vlrindustries"/>
+<node id="weitingzen"/>
+<node id="studiopandan"/>
+<node id="alexandre_babel"/>
+<node id="ane_marthe"/>
+<node id="helenovas_"/>
+<node id="stefanheinrichebner"/>
+<node id="bozarbrussels"/>
+<node id="herwigghoeller"/>
+<node id="kunstraum8020.at"/>
+<node id="megstuart33"/>
+<node id="megstuart_damagedgoods"/>
+<node id="argo.kollektiv"/>
+<node id="dacilguerra"/>
+<node id="gerarderruz"/>
+<node id="hannesschoeggl"/>
+<node id="iglbhdm"/>
+<node id="neuemusikinstruprecht"/>
+<node id="newartandmusicensemblesalzburg"/>
+<node id="percussion.world"/>
+<node id="sofijapalurovic"/>
+<node id="dntweimar"/>
+<node id="elisabeth.maier"/>
+<node id="floholzinger"/>
+<node id="nathalieckstein"/>
+<node id="schauspiel_leipzig."/>
+<node id="schlosstheatermoers,"/>
+<node id="studiojulianhetzel"/>
+<node id="theaterhausg7"/>
+<node id="theaterhausg7,"/>
+<node id="theatermagdeburg"/>
+<node id="wienerfestwochen"/>
+<node id="zt_tuebingen,"/>
+<node id="armand_conductor"/>
+<node id="konstantynnapolov"/>
+<node id="markus_sepperer_photographer"/>
+<node id="oe1"/>
+<node id="walterweidringer"/>
+<node id="betina_kuntzsch"/>
+<node id="ensemble_mosaik"/>
+<node id="guillaumemusset"/>
+<node id="helenawinkelman"/>
+<node id="katharina.rosenberger"/>
+<node id="klybeq.ch"/>
+<node id="prismago_ltd"/>
+<node id="sinfonieorchesterbasel"/>
+<edge source="musiktexte.online" target="contingentsounds">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktexte.online" target="daaaeun.jun">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktexte.online" target="forcedents">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktexte.online" target="hanna.fink1">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktexte.online" target="hannes_seidl_">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktexte.online" target="jiaying_he_">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktexte.online" target="lennysienczak">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktexte.online" target="liuduoni">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktexte.online" target="manos.tsangaris">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktexte.online" target="mdjstuttgart">
+  <data key="d10">2</data>
+</edge>
+<edge source="musiktexte.online" target="moonsun_shin">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktexte.online" target="rimini_protokoll">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktexte.online" target="teresa_grebchenko">
+  <data key="d10">1</data>
+</edge>
+<edge source="ruemlingen" target="alexandre_babel">
+  <data key="d10">1</data>
+</edge>
+<edge source="ruemlingen" target="ane_marthe">
+  <data key="d10">1</data>
+</edge>
+<edge source="ruemlingen" target="helenovas_">
+  <data key="d10">1</data>
+</edge>
+<edge source="ruemlingen" target="stefanheinrichebner">
+  <data key="d10">1</data>
+</edge>
+<edge source="evs_musikstiftung" target="enmtallinn">
+  <data key="d10">1</data>
+</edge>
+<edge source="evs_musikstiftung" target="exaudivocal">
+  <data key="d10">1</data>
+</edge>
+<edge source="evs_musikstiftung" target="jaegerundjaeger_brand">
+  <data key="d10">1</data>
+</edge>
+<edge source="evs_musikstiftung" target="jordisavall">
+  <data key="d10">1</data>
+</edge>
+<edge source="evs_musikstiftung" target="prosperoclassical">
+  <data key="d10">1</data>
+</edge>
+<edge source="evs_musikstiftung" target="quatuorbozzini">
+  <data key="d10">1</data>
+</edge>
+<edge source="evs_musikstiftung" target="riotensemble">
+  <data key="d10">1</data>
+</edge>
+<edge source="evs_musikstiftung" target="stefanie_loos">
+  <data key="d10">1</data>
+</edge>
+<edge source="evs_musikstiftung" target="wdr">
+  <data key="d10">1</data>
+</edge>
+<edge source="evs_musikstiftung" target="wdrso_freunde">
+  <data key="d10">1</data>
+</edge>
+<edge source="impulse__festival" target="fftduesseldorf">
+  <data key="d10">1</data>
+</edge>
+<edge source="wienmodern" target="markus_sepperer_photographer">
+  <data key="d10">1</data>
+</edge>
+<edge source="wienmodern" target="oe1">
+  <data key="d10">1</data>
+</edge>
+<edge source="wienmodern" target="walterweidringer">
+  <data key="d10">1</data>
+</edge>
+<edge source="berlinerfestspiele" target="anna_katharinamueller.">
+  <data key="d10">1</data>
+</edge>
+<edge source="berlinerfestspiele" target="caokefei0831">
+  <data key="d10">1</data>
+</edge>
+<edge source="berlinerfestspiele" target="fabian_schellhorn">
+  <data key="d10">5</data>
+</edge>
+<edge source="berlinerfestspiele" target="falk.i.schreiber,">
+  <data key="d10">1</data>
+</edge>
+<edge source="berlinerfestspiele" target="hauberlin;">
+  <data key="d10">1</data>
+</edge>
+<edge source="berlinerfestspiele" target="heinrichhorwitz">
+  <data key="d10">1</data>
+</edge>
+<edge source="berlinerfestspiele" target="jaramachtsachen">
+  <data key="d10">1</data>
+</edge>
+<edge source="berlinerfestspiele" target="katia_fellin_official">
+  <data key="d10">1</data>
+</edge>
+<edge source="berlinerfestspiele" target="kinan_hmidan">
+  <data key="d10">1</data>
+</edge>
+<edge source="berlinerfestspiele" target="kong_says_hi_">
+  <data key="d10">1</data>
+</edge>
+<edge source="berlinerfestspiele" target="kristiendeproost">
+  <data key="d10">1</data>
+</edge>
+<edge source="berlinerfestspiele" target="laurauribe">
+  <data key="d10">1</data>
+</edge>
+<edge source="berlinerfestspiele" target="lennithing.goes">
+  <data key="d10">1</data>
+</edge>
+<edge source="berlinerfestspiele" target="leonie.ziem">
+  <data key="d10">1</data>
+</edge>
+<edge source="berlinerfestspiele" target="lilithstangenberg.">
+  <data key="d10">1</data>
+</edge>
+<edge source="berlinerfestspiele" target="necatioeziri">
+  <data key="d10">1</data>
+</edge>
+<edge source="berlinerfestspiele" target="paula_thiel_ecke">
+  <data key="d10">1</data>
+</edge>
+<edge source="berlinerfestspiele" target="paula_thiel_ecke.">
+  <data key="d10">1</data>
+</edge>
+<edge source="berlinerfestspiele" target="paulinaalpen">
+  <data key="d10">1</data>
+</edge>
+<edge source="berlinerfestspiele" target="peslsohr">
+  <data key="d10">1</data>
+</edge>
+<edge source="berlinerfestspiele" target="sashasalzmann">
+  <data key="d10">1</data>
+</edge>
+<edge source="berlinerfestspiele" target="schauspielstuttgart.">
+  <data key="d10">2</data>
+</edge>
+<edge source="berlinerfestspiele" target="schmalztiegel">
+  <data key="d10">2</data>
+</edge>
+<edge source="berlinerfestspiele" target="selinkaaaaaa">
+  <data key="d10">1</data>
+</edge>
+<edge source="berlinerfestspiele" target="sharondoduaotoo">
+  <data key="d10">1</data>
+</edge>
+<edge source="berlinerfestspiele" target="shirinsojitrawalla">
+  <data key="d10">1</data>
+</edge>
+<edge source="berlinerfestspiele" target="sivanbenyishai">
+  <data key="d10">1</data>
+</edge>
+<edge source="berlinerfestspiele" target="sivanbenyishai.">
+  <data key="d10">1</data>
+</edge>
+<edge source="berlinerfestspiele" target="staatstheatercottbus">
+  <data key="d10">1</data>
+</edge>
+<edge source="berlinerfestspiele" target="vincent__koch,">
+  <data key="d10">1</data>
+</edge>
+<edge source="berlinerfestspiele" target="yaninaceron,">
+  <data key="d10">1</data>
+</edge>
+<edge source="berlinerfestspiele" target="yodittarikwa.">
+  <data key="d10">1</data>
+</edge>
+<edge source="berlinerfestspiele" target="yunhuang_acts">
+  <data key="d10">1</data>
+</edge>
+<edge source="lucernefestival" target="augustinhadelich">
+  <data key="d10">1</data>
+</edge>
+<edge source="lucernefestival" target="danishquartet">
+  <data key="d10">1</data>
+</edge>
+<edge source="lucernefestival" target="danishquartet.">
+  <data key="d10">1</data>
+</edge>
+<edge source="lucernefestival" target="itselimchan,">
+  <data key="d10">1</data>
+</edge>
+<edge source="lucernefestival" target="itselimchan.">
+  <data key="d10">1</data>
+</edge>
+<edge source="lucernefestival" target="kklluzern">
+  <data key="d10">1</data>
+</edge>
+<edge source="lucernefestival" target="mahlerchamberorchestra,">
+  <data key="d10">2</data>
+</edge>
+<edge source="lucernefestival" target="roche">
+  <data key="d10">1</data>
+</edge>
+<edge source="lucernefestival" target="studioolafureliasson:">
+  <data key="d10">1</data>
+</edge>
+<edge source="lucernefestival" target="thomasades,">
+  <data key="d10">1</data>
+</edge>
+<edge source="lucernefestival" target="ubsschweiz">
+  <data key="d10">1</data>
+</edge>
+<edge source="lucernefestival" target="vikingurolafsson">
+  <data key="d10">3</data>
+</edge>
+<edge source="lucernefestival" target="vikingurolafsson,">
+  <data key="d10">1</data>
+</edge>
+<edge source="lucernefestival" target="zurich.ch">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="__poing">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="antalova_music">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="anti_inc">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="bergrun_______">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="blaaoslo">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="bnuring_things">
+  <data key="d10">2</data>
+</edge>
+<edge source="nymusikk" target="carstenaniksdal">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="caserecordsnorway">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="cikadaensemble">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="darkmusicdays">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="e.t.hangard">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="eleperalesandreu">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="eric_egan">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="ernvdl">
+  <data key="d10">2</data>
+</edge>
+<edge source="nymusikk" target="evs_musikstiftung">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="f1nstad">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="ilan.volkov">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="jackquartet">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="jonasskaarud">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="jorgegomezelizondo">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="justejanulyte">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="karinemiliahellqvist">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="knutolafsunde">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="komponistforeningen">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="kristinetjogersen">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="kulturkirkenjakob,">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="kulturradet">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="kunstnerneshus">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="littlest__freckle">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="louis_laurain">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="madalena.moreira.rato">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="malinvangsnes">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="mariam_gviniashvili_artist">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="mariesamuelssoncomposer">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="martiunkuchen">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="musicnorway">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="musikkhogskolen">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="naaljosljom">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="natachadiels">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="nrkkork">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="oslo.kommune">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="ovingshotellet">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="owenplaysthedrums">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="pierre_bastien_tapes">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="pritchardalwynne">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="sanae_yoshida_piano">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="sitronsinfonietta">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="susanasantosilva">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="uncannyvalleygrl">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="vlrindustries">
+  <data key="d10">1</data>
+</edge>
+<edge source="nymusikk" target="weitingzen">
+  <data key="d10">1</data>
+</edge>
+<edge source="positionenmusik" target="studiopandan">
+  <data key="d10">1</data>
+</edge>
+<edge source="zeitraeume_basel" target="betina_kuntzsch">
+  <data key="d10">1</data>
+</edge>
+<edge source="zeitraeume_basel" target="ensemble_mosaik">
+  <data key="d10">1</data>
+</edge>
+<edge source="zeitraeume_basel" target="guillaumemusset">
+  <data key="d10">3</data>
+</edge>
+<edge source="zeitraeume_basel" target="helenawinkelman">
+  <data key="d10">1</data>
+</edge>
+<edge source="zeitraeume_basel" target="katharina.rosenberger">
+  <data key="d10">1</data>
+</edge>
+<edge source="zeitraeume_basel" target="klybeq.ch">
+  <data key="d10">1</data>
+</edge>
+<edge source="zeitraeume_basel" target="prismago_ltd">
+  <data key="d10">1</data>
+</edge>
+<edge source="zeitraeume_basel" target="sinfonieorchesterbasel">
+  <data key="d10">1</data>
+</edge>
+<edge source="zeitraeume_basel" target="wienmodern">
+  <data key="d10">1</data>
+</edge>
+<edge source="theaterderzeit" target="dntweimar">
+  <data key="d10">1</data>
+</edge>
+<edge source="theaterderzeit" target="elisabeth.maier">
+  <data key="d10">1</data>
+</edge>
+<edge source="theaterderzeit" target="floholzinger">
+  <data key="d10">1</data>
+</edge>
+<edge source="theaterderzeit" target="nathalieckstein">
+  <data key="d10">1</data>
+</edge>
+<edge source="theaterderzeit" target="schauspiel_leipzig.">
+  <data key="d10">1</data>
+</edge>
+<edge source="theaterderzeit" target="schlosstheatermoers,">
+  <data key="d10">1</data>
+</edge>
+<edge source="theaterderzeit" target="studiojulianhetzel">
+  <data key="d10">1</data>
+</edge>
+<edge source="theaterderzeit" target="theaterhausg7">
+  <data key="d10">1</data>
+</edge>
+<edge source="theaterderzeit" target="theaterhausg7,">
+  <data key="d10">1</data>
+</edge>
+<edge source="theaterderzeit" target="theatermagdeburg">
+  <data key="d10">1</data>
+</edge>
+<edge source="theaterderzeit" target="wienerfestwochen">
+  <data key="d10">1</data>
+</edge>
+<edge source="theaterderzeit" target="zt_tuebingen,">
+  <data key="d10">1</data>
+</edge>
+<edge source="suena.festival" target="argo.kollektiv">
+  <data key="d10">1</data>
+</edge>
+<edge source="suena.festival" target="dacilguerra">
+  <data key="d10">1</data>
+</edge>
+<edge source="suena.festival" target="ensemble__n">
+  <data key="d10">1</data>
+</edge>
+<edge source="suena.festival" target="gerarderruz">
+  <data key="d10">1</data>
+</edge>
+<edge source="suena.festival" target="hannesschoeggl">
+  <data key="d10">1</data>
+</edge>
+<edge source="suena.festival" target="iglbhdm">
+  <data key="d10">1</data>
+</edge>
+<edge source="suena.festival" target="musikwerkstattalteschmiede">
+  <data key="d10">1</data>
+</edge>
+<edge source="suena.festival" target="neuemusikinstruprecht">
+  <data key="d10">1</data>
+</edge>
+<edge source="suena.festival" target="newartandmusicensemblesalzburg">
+  <data key="d10">1</data>
+</edge>
+<edge source="suena.festival" target="percussion.world">
+  <data key="d10">1</data>
+</edge>
+<edge source="suena.festival" target="sofijapalurovic">
+  <data key="d10">4</data>
+</edge>
+<edge source="steirischerherbst" target="bozarbrussels">
+  <data key="d10">1</data>
+</edge>
+<edge source="steirischerherbst" target="herwigghoeller">
+  <data key="d10">1</data>
+</edge>
+<edge source="steirischerherbst" target="kunstraum8020.at">
+  <data key="d10">1</data>
+</edge>
+<edge source="steirischerherbst" target="megstuart33">
+  <data key="d10">1</data>
+</edge>
+<edge source="steirischerherbst" target="megstuart_damagedgoods">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktheatertage.wien" target="aleksandra_bajde">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktheatertage.wien" target="alina_v_be">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktheatertage.wien" target="almabandi">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktheatertage.wien" target="blackpageorchestra">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktheatertage.wien" target="carmenckruse">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktheatertage.wien" target="clarafruehstueck">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktheatertage.wien" target="connyzenk">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktheatertage.wien" target="constructionchoir">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktheatertage.wien" target="elda.m.gallo">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktheatertage.wien" target="errortheater">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktheatertage.wien" target="evareiter1">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktheatertage.wien" target="florageisselbrecht">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktheatertage.wien" target="florian_drexler">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktheatertage.wien" target="fox.on.ice">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktheatertage.wien" target="glanzundkrawall">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktheatertage.wien" target="ictusensemble">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktheatertage.wien" target="maartjepasman">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktheatertage.wien" target="manimoo69">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktheatertage.wien" target="minion.hunt">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktheatertage.wien" target="mttw.at">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktheatertage.wien" target="nika.bauman">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktheatertage.wien" target="philipplossauhallo">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktheatertage.wien" target="pulverthepiece">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktheatertage.wien" target="samuel_zaab">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktheatertage.wien" target="samugryllus">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktheatertage.wien" target="studio.dan">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktheatertage.wien" target="studiomars2020">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktheatertage.wien" target="synesthetic.project">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktheatertage.wien" target="th_wally">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktheatertage.wien" target="the_resilience_of_sisyphos">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktheatertage.wien" target="theater_am_werk_official">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktheatertage.wien" target="theaterodeon">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktheatertage.wien" target="westspacevienna">
+  <data key="d10">1</data>
+</edge>
+<edge source="musiktheatertage.wien" target="wukvienna">
+  <data key="d10">1</data>
+</edge>
+<edge source="musikfestival_bern" target="andreas_schaerer">
+  <data key="d10">1</data>
+</edge>
+<edge source="musikfestival_bern" target="container_ensemble">
+  <data key="d10">1</data>
+</edge>
+<edge source="musikfestival_bern" target="hkb_musik">
+  <data key="d10">1</data>
+</edge>
+<edge source="musikfestival_bern" target="ictusensemble">
+  <data key="d10">1</data>
+</edge>
+<edge source="musikfestival_bern" target="janfiliptupa">
+  <data key="d10">1</data>
+</edge>
+<edge source="musikfestival_bern" target="konus_quartett">
+  <data key="d10">1</data>
+</edge>
+<edge source="musikfestival_bern" target="magmgam">
+  <data key="d10">1</data>
+</edge>
+<edge source="musikfestival_bern" target="mailchristiankobi">
+  <data key="d10">1</data>
+</edge>
+<edge source="musikfestival_bern" target="mantrumpet">
+  <data key="d10">1</data>
+</edge>
+<edge source="musikfestival_bern" target="maras_sound">
+  <data key="d10">1</data>
+</edge>
+<edge source="musikfestival_bern" target="moritzachermann">
+  <data key="d10">1</data>
+</edge>
+<edge source="musikfestival_bern" target="nuriacarbovives">
+  <data key="d10">1</data>
+</edge>
+<edge source="musikfestival_bern" target="pony_says">
+  <data key="d10">1</data>
+</edge>
+<edge source="musikfestival_bern" target="silke_strahl">
+  <data key="d10">1</data>
+</edge>
+<edge source="musikfestival_bern" target="stefanschultzemusic">
+  <data key="d10">1</data>
+</edge>
+<edge source="musikfestival_bern" target="tamriko.kordzaia">
+  <data key="d10">1</data>
+</edge>
+<edge source="musikfestival_bern" target="tobiasreber">
+  <data key="d10">1</data>
+</edge>
+<edge source="musikfestival_bern" target="tremblap">
+  <data key="d10">1</data>
+</edge>
+<edge source="musikfestival_bern" target="zoi.argyriou">
+  <data key="d10">1</data>
+</edge>
+<edge source="muenchenerbiennale" target="blackboxteater">
+  <data key="d10">1</data>
+</edge>
+<edge source="muenchenerbiennale" target="diestaatstheaterstuttgart,">
+  <data key="d10">1</data>
+</edge>
+<edge source="muenchenerbiennale" target="garedunordbasel">
+  <data key="d10">1</data>
+</edge>
+<edge source="muenchenerbiennale" target="haus.styriarte">
+  <data key="d10">1</data>
+</edge>
+<edge source="muenchenerbiennale" target="haus.styriarte,">
+  <data key="d10">1</data>
+</edge>
+<edge source="muenchenerbiennale" target="hochx">
+  <data key="d10">1</data>
+</edge>
+<edge source="muenchenerbiennale" target="joinstuttgart/">
+  <data key="d10">1</data>
+</edge>
+<edge source="muenchenerbiennale" target="klang_festival">
+  <data key="d10">1</data>
+</edge>
+<edge source="muenchenerbiennale" target="muffatwerk">
+  <data key="d10">1</data>
+</edge>
+<edge source="muenchenerbiennale" target="oslosinfonietta,">
+  <data key="d10">1</data>
+</edge>
+<edge source="muenchenerbiennale" target="oxundoel_produktionen">
+  <data key="d10">1</data>
+</edge>
+<edge source="muenchenerbiennale" target="schauburg_muenchen">
+  <data key="d10">1</data>
+</edge>
+<edge source="muenchenerbiennale" target="schwerereiter">
+  <data key="d10">1</data>
+</edge>
+<edge source="muenchenerbiennale" target="staatsoperstuttgart">
+  <data key="d10">1</data>
+</edge>
+<edge source="muenchenerbiennale" target="ultimafestivalen">
+  <data key="d10">1</data>
+</edge>
+<edge source="muenchenerbiennale" target="ultimafestivalen,">
+  <data key="d10">1</data>
+</edge>
+<edge source="muenchenerbiennale" target="volkstheater">
+  <data key="d10">1</data>
+</edge>
+<edge source="impuls_festival" target="classipix">
+  <data key="d10">1</data>
+</edge>
+<edge source="impuls_festival" target="sascha_pierre_kummer">
+  <data key="d10">1</data>
+</edge>
+<edge source="impuls_festival" target="simonedrescher.cellist,">
+  <data key="d10">1</data>
+</edge>
+<edge source="fernandostrasnoy" target="babelscores">
+  <data key="d10">1</data>
+</edge>
+<edge source="fernandostrasnoy" target="classipix">
+  <data key="d10">1</data>
+</edge>
+<edge source="fernandostrasnoy" target="hans.rotman,">
+  <data key="d10">1</data>
+</edge>
+<edge source="fernandostrasnoy" target="ilyaram">
+  <data key="d10">1</data>
+</edge>
+<edge source="fernandostrasnoy" target="impuls_festival">
+  <data key="d10">1</data>
+</edge>
+<edge source="fernandostrasnoy" target="janina.schreiber">
+  <data key="d10">1</data>
+</edge>
+<edge source="fernandostrasnoy" target="prata_at_hotmail">
+  <data key="d10">1</data>
+</edge>
+<edge source="fernandostrasnoy" target="simonedrescher.cellist">
+  <data key="d10">1</data>
+</edge>
+<edge source="fernandostrasnoy" target="steintorvariete">
+  <data key="d10">1</data>
+</edge>
+<edge source="filmgarten_at" target="arnoldschoenbergcenter">
+  <data key="d10">1</data>
+</edge>
+<edge source="filmgarten_at" target="marschall2001">
+  <data key="d10">1</data>
+</edge>
+<edge source="filmgarten_at" target="wienmodern">
+  <data key="d10">1</data>
+</edge>
+<edge source="klangforum_wien" target="wienmodern.">
+  <data key="d10">1</data>
+</edge>
+<edge source="mariam_gviniashvili_artist" target="blaaoslo">
+  <data key="d10">1</data>
+</edge>
+<edge source="mariam_gviniashvili_artist" target="ingrid.styrkestad">
+  <data key="d10">1</data>
+</edge>
+<edge source="mariam_gviniashvili_artist" target="nymusikk">
+  <data key="d10">1</data>
+</edge>
+<edge source="mrttrml" target="bastian.zimmermann">
+  <data key="d10">1</data>
+</edge>
+<edge source="mrttrml" target="benibrachtel">
+  <data key="d10">1</data>
+</edge>
+<edge source="mrttrml" target="christinehelenrose,">
+  <data key="d10">1</data>
+</edge>
+<edge source="mrttrml" target="edwardj.mckeon1,">
+  <data key="d10">1</data>
+</edge>
+<edge source="mrttrml" target="hanusasebastian">
+  <data key="d10">1</data>
+</edge>
+<edge source="mrttrml" target="kalasliebfried">
+  <data key="d10">1</data>
+</edge>
+<edge source="mrttrml" target="marstalifolketinget.">
+  <data key="d10">1</data>
+</edge>
+<edge source="mrttrml" target="simon_steenandersen">
+  <data key="d10">1</data>
+</edge>
+<edge source="mrttrml" target="xeniab.vlsk,">
+  <data key="d10">1</data>
+</edge>
+<edge source="musikwerkstattalteschmiede" target="cezara_u.u">
+  <data key="d10">1</data>
+</edge>
+<edge source="musikwerkstattalteschmiede" target="ensemble__n">
+  <data key="d10">1</data>
+</edge>
+<edge source="musikwerkstattalteschmiede" target="sebassb89">
+  <data key="d10">1</data>
+</edge>
+<edge source="musikwerkstattalteschmiede" target="suena.festival">
+  <data key="d10">1</data>
+</edge>
+<edge source="theatermagdeburg" target="armand_conductor">
+  <data key="d10">1</data>
+</edge>
+<edge source="theatermagdeburg" target="impuls_festival">
+  <data key="d10">1</data>
+</edge>
+<edge source="theatermagdeburg" target="konstantynnapolov">
+  <data key="d10">1</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,18 @@
+# Environment variables
+.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Extracted Data (Don't leak raw JSONs or final CSVs which may change dynamically)
+Code/data/
+
+# Orphaned/Private Files
+Nieto_Cook2026.ipynb
+*.eml
